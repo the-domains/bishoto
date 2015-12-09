@@ -1,0 +1,28 @@
+name: Bishoto
+favicon: null
+layout_spectrum: 0.7794545532669872
+typography_spectrum: 0.1563906141091138
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.8829972189851105
+  lightness: 0.022298423806205392
+  saturation: 0.6078616320155561
+  rhythmicContrast: 0.23321019439026713
+purpose: []
