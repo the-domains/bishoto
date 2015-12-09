@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Bishop Photography]]></title>
         <description><![CDATA[Bishop Photography]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/bishoto/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 09 Dec 2015 21:24:32 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 09 Dec 2015 21:31:29 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/bishoto/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Hello World]]></title>
-            <description><![CDATA[<article><h1>Hello World</h1><img src="src"></article>]]></description>
-            <link>undefinedhello-world/index.html</link>
+            <description><![CDATA[<article><h1>Hello World</h1><p>null</p></article>]]></description>
+            <link>https://thegrid.ai/bishoto/hello-world/index.html</link>
             <guid isPermaLink="false">edb9a71e-2005-4710-a12f-2af778fedd6c</guid>
-            <pubDate>Wed, 09 Dec 2015 21:24:32 GMT</pubDate>
+            <pubDate>Wed, 09 Dec 2015 21:31:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
